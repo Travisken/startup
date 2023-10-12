@@ -321,18 +321,18 @@ h2::after{
 }
 
 .sponsors div:nth-child(1){
-    background: url(src/assets/789cd02c737a5119ffd0dd0bc2ef4d03.jpg);
+    background: url(/src/assets/789cd02c737a5119ffd0dd0bc2ef4d03.jpg);
     background-size: 100%;
 }
 
 .sponsors div:nth-child(2){
-    background: url(src/assets/4ead090bb63cdbdb2c3e9130ab4963bf.jpg);
+    background: url(/src/assets/4ead090bb63cdbdb2c3e9130ab4963bf.jpg);
     background-size: 100%;
     transform: scale(1.2);
 }
 
 .sponsors div:nth-child(3){
-    background: url(src/assets/cdeabe5be57a091e71ce00334968423c.jpg);
+    background: url(/src/assets/cdeabe5be57a091e71ce00334968423c.jpg);
     background-size: 100%;
 }
 
@@ -418,13 +418,13 @@ height: 6rem;
 }
 
 .user1{
-    background-image: url(src/assets/78be956da5c9e48309f97488b3670755.jpg);
+    background-image: url(/src/assets/78be956da5c9e48309f97488b3670755.jpg);
 }
 .user2{
-    background: url(src/assets/86cf0ebf3e15511d74cb43221e5abf7f.jpg);
+    background: url(/src/assets/86cf0ebf3e15511d74cb43221e5abf7f.jpg);
 }
 .user3{
-    background: url(src/assets/aa06d77cd048b867f5d0b40362e62a76.jpg);
+    background: url(/src/assets/aa06d77cd048b867f5d0b40362e62a76.jpg);
 }
 .user p{
     font-size: 0.8rem !important;
@@ -498,7 +498,7 @@ height: 6rem;
 footer{
     width: 100%;
     min-height: 50vh;
-    background: url(src/assets/8056f3ff67d14b09fe82fab936d8824e.jpg);
+    background: url(/src/assets/8056f3ff67d14b09fe82fab936d8824e.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

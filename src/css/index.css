@@ -1,4 +1,4 @@
-@import url(src/assets/7787d49e60dfae3ee0ac23958c6563b8.jpg);
+/* @import url(src/assets/7787d49e60dfae3ee0ac23958c6563b8.jpg); */
 
 *{
     margin: 0;
@@ -46,7 +46,7 @@ h2::after{
     
     text-align: left;
     padding: 0px 8em;
-    background: url(src/assets/7787d49e60dfae3ee0ac23958c6563b8.jpg);
+    background: url(/src/assets/7787d49e60dfae3ee0ac23958c6563b8.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
